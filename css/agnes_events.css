@@ -1,0 +1,79 @@
+.appNav{
+    background-color: black;
+    padding-left: 5px;
+}
+.menuButton, .addButton {
+    
+    position: relative;
+    float: right;
+    padding: 20px 23px;
+    margin-top: 5px;
+    margin-right: 0px;
+    margin-bottom: 1px;
+    background-color: transparent;
+    background-image: none;
+    border:0px;
+    margin-left: 20px;
+}
+.menuButton {
+    float:left;
+    background:url('../icons/hamburger_icon.png')no-repeat;
+}
+.addButton {
+    float: right;
+    background:url('../icons/plus_icon.png') no-repeat;
+}
+.trendingSection {
+    position: fixed;
+    z-index: 3;
+    background-image: url(../images/testimonial-bg.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+    margin-top: 7%;
+    color:white;
+}
+html, body {
+    background-color: black;
+}
+
+.toggleButtonNav {
+    padding-top: 1%;
+    padding-left: 33%;
+}
+
+.eventsSection {
+    margin-top: 60%;
+    background-color: black;
+}
+
+.eventsSection img{
+    width: 100%; 
+}
+
+.imageDiv{
+   position: relative; 
+   width: 100%; /* for IE 6 */
+}
+
+.textOnImage { 
+   position: absolute; 
+   top: -20px; 
+   color: white; 
+   letter-spacing: -1px;  
+   background: rgb(0, 0, 0); /* fallback color */
+   background: rgba(0, 0, 0, 0.5);
+   padding: 10px; 
+   width:95.5%; 
+}
+.dateText{
+    padding-right:10px;
+    border-right: 2px solid white;
+}
+.eventNameText {
+    padding-left: 10px;
+}
+
+.eachEventContainer {
+    margin-bottom: 1%;
+}
