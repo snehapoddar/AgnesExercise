@@ -1,0 +1,30 @@
+body {
+	background-color: black;
+}
+.emailInput, .passwordInput {	
+  	background-repeat:no-repeat;
+	background-position:6px;
+  	background-color: black;
+  	color:white;
+  	padding-left: 8%;
+}
+.emailInput {
+	background-image:url('../icons/email_icon.png');
+}
+.passwordInput {
+	background-image:url('../icons/password_icon.png');
+}
+body {
+    overflow:hidden;    
+}
+
+.loginButton {
+	border-color: white;
+    background: black;
+    color: white;
+}
+
+.logoContainer {
+	padding-bottom: 20%;
+    padding-top: 20%;
+}

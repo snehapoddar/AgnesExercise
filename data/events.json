@@ -1,0 +1,180 @@
+{{ 
+    "_id" : ObjectId("57a617a9aefa5b5b5725a98c"), 
+    "weburl" : [
+        "https://washington.org/event/masterpieces-american-furniture-kaufman-collection-1700-1830?cid=3090", 
+        "http://www.nga.gov/content/ngaweb.html?utm_source=washingtonorg&amp;utm_medium=referral&amp;utm_campaign=masterpieces-american-furniture-kaufman-collection-1700-1830"
+    ], 
+    "evtname" : "Masterpieces of American Furniture from the Kaufman Collection, 1700-1830", 
+    "community" : [
+        "gwu", 
+        "american", 
+        "georgetown", 
+        "howard", 
+        "marymount", 
+        "trinitydc", 
+        "cua", 
+        "udc", 
+        "gmu", 
+        "agnes", 
+        "groupten"
+    ], 
+    "featured" : false, 
+    "url" : "https://washington.org/event/masterpieces-american-furniture-kaufman-collection-1700-1830?cid=3090", 
+    "keywords" : [
+
+    ], 
+    "attendees" : [
+
+    ], 
+    "attendcount" : NumberInt(0), 
+    "other" : {
+        "currentDistance" : "", 
+        "tags" : [
+
+        ]
+    }, 
+    "location" : "National Gallery of Art, Downtown", 
+    "status" : false, 
+    "evtsource" : "washington.org", 
+    "createdate" : ISODate("2016-08-05T00:00:00.000+0000"), 
+    "evtdesc" : "The National Gallery of Art presents Masterpieces of American Furniture from the Kaufman Collection, 1700\u00961830. This installation is a landmark moment for the nation's capital, which until this time has had no major presentation of early American furniture and related decorative arts on permanent public view. The installation follows the promised gift in October 2010 of one of the largest and most refined collections of early American furniture in private hands, acquired with great connoisseurship over five decades by George M. (1932\u00962001) and Linda H. Kaufman (b. 1938). The Kaufman Collection comprises more than 200 works of art, including American furniture, major Dutch paintings, American paintings, and works on paper, among them some 40 floral watercolors by Pierre-Joseph Redouté (1759\u00961840). Many of these objects were featured in 1986\u00961987 when the Gallery first exhibited American Furniture from the Kaufman Collection. The installation highlights more than 100 of the finest examples of early American furniture and decorative arts, shown with a selection of American, European, and Chinese porcelains and a number of choice Redouté watercolors\u0097all from the Kaufman Collection. Paintings by American artists from the Gallery's collection will also be integrated into the presentation.", 
+    "grps" : [
+
+    ], 
+    "endtime" : ISODate("2018-07-02T05:01:00.000+0000"), 
+    "evttype" : "public", 
+    "admin" : [
+
+    ], 
+    "just_crawled" : false, 
+    "picurl" : "https://s3.amazonaws.com/agneseventimage/compress/default_event_image_5.jpg", 
+    "starttime" : ISODate("2016-08-06T05:01:00.000+0000"), 
+    "isAvailable" : true, 
+    "maxdistance" : 0.19105332290202767, 
+    "attended" : [
+
+    ], 
+    "attendedCount" : NumberInt(0), 
+    "geo" : "38.8912958,-77.0229535", 
+    "thumbnail" : "https://s3.amazonaws.com/agneseventimage/thumbnail/default_event_image_5.jpg"
+},
+{ 
+    "_id" : ObjectId("57a617abaefa5b5b5725a990"), 
+    "weburl" : [
+        "https://washington.org/event/civic-pride-group-portraits-amsterdam-exhibition?cid=3090", 
+        "http://www.nga.gov/content/ngaweb/exhibitions/2012/civic_pride.html?utm_source=washingtonorg&amp;utm_medium=referral&amp;utm_campaign=civic-pride-group-portraits-amsterdam-exhibition"
+    ], 
+    "evtname" : "\"Civic Pride: Group Portraits from Amsterdam\" Exhibition", 
+    "community" : [
+        "gwu", 
+        "american", 
+        "georgetown", 
+        "howard", 
+        "marymount", 
+        "trinitydc", 
+        "cua", 
+        "udc", 
+        "gmu", 
+        "agnes", 
+        "groupten"
+    ], 
+    "featured" : false, 
+    "url" : "https://washington.org/event/civic-pride-group-portraits-amsterdam-exhibition?cid=3090", 
+    "keywords" : [
+
+    ], 
+    "attendees" : [
+
+    ], 
+    "attendcount" : NumberInt(0), 
+    "other" : {
+        "currentDistance" : "", 
+        "tags" : [
+
+        ]
+    }, 
+    "location" : "National Gallery of Art, Downtown", 
+    "status" : false, 
+    "evtsource" : "washington.org", 
+    "createdate" : ISODate("2016-08-05T00:00:00.000+0000"), 
+    "evtdesc" : "Painted during the Dutch Golden Age, these works bring to the nation's capital a style of painting rarely seen outside the Netherlands. Two large-scale group portraits by artists Govert Flinck (1615\u00961660) and Bartholomeus van der Helst (1613\u00961670) depict the governors of the Kloveniersdoelen, the building where Amsterdam's main militia companies held its meetings.", 
+    "grps" : [
+
+    ], 
+    "endtime" : ISODate("2017-03-11T05:01:00.000+0000"), 
+    "evttype" : "public", 
+    "admin" : [
+
+    ], 
+    "just_crawled" : false, 
+    "picurl" : "https://s3.amazonaws.com/agneseventimage/event_fal8c65h.jpg", 
+    "starttime" : ISODate("2016-08-06T05:01:00.000+0000"), 
+    "isAvailable" : true, 
+    "maxdistance" : 0.19105332290202767, 
+    "attended" : [
+
+    ], 
+    "attendedCount" : NumberInt(0), 
+    "geo" : "38.8912958,-77.0229535", 
+    "thumbnail" : "https://s3.amazonaws.com/agneseventimage/thumbnail/event_fal8c65h.jpg"
+},
+{ 
+    "_id" : ObjectId("57a617b4aefa5b5b5725a9ba"), 
+    "weburl" : [
+        "https://washington.org/event/sky-blue-color-ceramics-islamic-world?cid=3090", 
+        "http://www.asia.si.edu/exhibitions/current/skyblue/?utm_source=washingtonorg&amp;utm_medium=referral&amp;utm_campaign=sky-blue-color-ceramics-islamic-world"
+    ], 
+    "evtname" : "Sky Blue: Color in Ceramics of the Islamic World", 
+    "community" : [
+        "gwu", 
+        "american", 
+        "georgetown", 
+        "howard", 
+        "marymount", 
+        "trinitydc", 
+        "cua", 
+        "udc", 
+        "gmu", 
+        "agnes", 
+        "groupten"
+    ], 
+    "featured" : false, 
+    "url" : "https://washington.org/event/sky-blue-color-ceramics-islamic-world?cid=3090", 
+    "keywords" : [
+
+    ], 
+    "attendees" : [
+
+    ], 
+    "attendcount" : NumberInt(0), 
+    "other" : {
+        "currentDistance" : "", 
+        "tags" : [
+
+        ]
+    }, 
+    "location" : "Freer Gallery of Art and Arthur M. Sackler Gallery, National Mall", 
+    "status" : false, 
+    "evtsource" : "washington.org", 
+    "createdate" : ISODate("2016-08-05T00:00:00.000+0000"), 
+    "evtdesc" : "Islamic ceramics have a distinct appearance and texture, one is that is practically unmistakable to craft experts. The Sackler Gallery displays numerous pieces from this part of the world in this new exhibit, which focuses on turquoise and deep blue colors, a combination described by potter Abdul Matin Malekzadah as \u0093the color of peace, the color of competence,\u0094 that are a trademark of artists of Islamic descent. The pattern can be traced all the way back to the ninth century (and perhaps further), as the exhibit features artifacts that date to this period (and up to the nineteenth century).", 
+    "grps" : [
+
+    ], 
+    "endtime" : ISODate("2017-07-16T05:01:00.000+0000"), 
+    "evttype" : "public", 
+    "admin" : [
+
+    ], 
+    "just_crawled" : false, 
+    "picurl" : "https://s3.amazonaws.com/agneseventimage/compress/default_event_image_3.jpg", 
+    "starttime" : ISODate("2016-08-06T05:01:00.000+0000"), 
+    "isAvailable" : true, 
+    "maxdistance" : "", 
+    "attended" : [
+
+    ], 
+    "attendedCount" : NumberInt(0), 
+    "geo" : "38.8879597,-77.0264821", 
+    "thumbnail" : "https://s3.amazonaws.com/agneseventimage/thumbnail/default_event_image_3.jpg"
+}}

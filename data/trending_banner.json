@@ -1,0 +1,180 @@
+{{ 
+    "_id" : ObjectId("57a617b4aefa5b5b5725a9c2"), 
+    "weburl" : [
+        "https://washington.org/event/100-years-americas-national-park-service-preserve-enjoy-inspire?cid=3090", 
+        "http://naturalhistory.si.edu/exhibits/upcoming.html?utm_source=washingtonorg&amp;utm_medium=referral&amp;utm_campaign=100-years-americas-national-park-service-preserve-enjoy-inspire"
+    ], 
+    "evtname" : "100 Years of America\u0092s National Park Service: Preserve, Enjoy, Inspire", 
+    "community" : [
+        "gwu", 
+        "american", 
+        "georgetown", 
+        "howard", 
+        "marymount", 
+        "trinitydc", 
+        "cua", 
+        "udc", 
+        "gmu", 
+        "agnes", 
+        "groupten"
+    ], 
+    "featured" : false, 
+    "url" : "https://washington.org/event/100-years-americas-national-park-service-preserve-enjoy-inspire?cid=3090", 
+    "keywords" : [
+
+    ], 
+    "attendees" : [
+
+    ], 
+    "attendcount" : NumberInt(0), 
+    "other" : {
+        "currentDistance" : "", 
+        "tags" : [
+
+        ]
+    }, 
+    "location" : "National Museum of Natural History, National Mall", 
+    "status" : false, 
+    "evtsource" : "washington.org", 
+    "createdate" : ISODate("2016-08-05T00:00:00.000+0000"), 
+    "evtdesc" : "In honor of the National Park Centennial, the National Museum of Natural History features this special exhibit dedicated to presenting the incredible experiences that national parks provide. The exhibit will showcase more than 50 images from award-winning photographers, displaying monuments, historic sites, lakeshores and seashores and battlefields. 100 Years will also detail how the museum and the National Park Service have worked together to maintain and celebrate the country\u0092s most important natural and cultural heritage sites.", 
+    "grps" : [
+
+    ], 
+    "endtime" : ISODate("2017-08-31T05:01:00.000+0000"), 
+    "evttype" : "public", 
+    "admin" : [
+
+    ], 
+    "just_crawled" : false, 
+    "picurl" : "https://s3.amazonaws.com/agneseventimage/compress/event_sUnMH1df.jpg", 
+    "starttime" : ISODate("2016-08-06T05:01:00.000+0000"), 
+    "isAvailable" : true, 
+    "maxdistance" : 0.04866335162126459, 
+    "attended" : [
+
+    ], 
+    "attendedCount" : NumberInt(0), 
+    "geo" : "38.8912662,-77.0260654", 
+    "thumbnail" : "https://s3.amazonaws.com/agneseventimage/thumbnail/event_sUnMH1df.jpg"
+},
+{ 
+    "_id" : ObjectId("57a617b9aefa5b5b5725a9d0"), 
+    "weburl" : [
+        "https://washington.org/event/one-life-babe-ruth?cid=3090", 
+        "http://npg.si.edu/exhibition/one-life-babe-ruth?utm_source=washingtonorg&amp;utm_medium=referral&amp;utm_campaign=one-life-babe-ruth"
+    ], 
+    "evtname" : "One Life: Babe Ruth", 
+    "community" : [
+        "gwu", 
+        "american", 
+        "georgetown", 
+        "howard", 
+        "marymount", 
+        "trinitydc", 
+        "cua", 
+        "udc", 
+        "gmu", 
+        "agnes", 
+        "groupten"
+    ], 
+    "featured" : false, 
+    "url" : "https://washington.org/event/one-life-babe-ruth?cid=3090", 
+    "keywords" : [
+
+    ], 
+    "attendees" : [
+
+    ], 
+    "attendcount" : NumberInt(0), 
+    "other" : {
+        "currentDistance" : "", 
+        "tags" : [
+
+        ]
+    }, 
+    "location" : "National Portrait Gallery, Penn Quarter/Chinatown", 
+    "status" : false, 
+    "evtsource" : "washington.org", 
+    "createdate" : ISODate("2016-08-05T00:00:00.000+0000"), 
+    "evtdesc" : "The exhibition will include approximately forty objects, from prints and photographs of Ruth, both in and out of his New York Yankees uniform, to personal paraphernalia, and advertising memorabilia endorsed by Ruth. The show will conclude with a look at a few of baseball\u0092s greats\u0097Hank Aaron, Roger Maris, and Whitey Ford\u0097who chased and broke one or more of the Babe\u0092s long-standing records.Historian James Barber curates this exhibition.", 
+    "grps" : [
+
+    ], 
+    "endtime" : ISODate("2017-05-21T05:01:00.000+0000"), 
+    "evttype" : "public", 
+    "admin" : [
+
+    ], 
+    "just_crawled" : false, 
+    "picurl" : "https://s3.amazonaws.com/agneseventimage/compress/event_ph1OJc62.jpg", 
+    "starttime" : ISODate("2016-08-06T05:01:00.000+0000"), 
+    "isAvailable" : true, 
+    "maxdistance" : 0.03914181697168526, 
+    "attended" : [
+
+    ], 
+    "attendedCount" : NumberInt(0), 
+    "geo" : "38.8978692,-77.0230529", 
+    "thumbnail" : "https://s3.amazonaws.com/agneseventimage/thumbnail/event_ph1OJc62.jpg"
+},
+{ 
+    "_id" : ObjectId("57a617b9aefa5b5b5725a9d8"), 
+    "weburl" : [
+        "https://washington.org/event/groove-jazz-portraits-herman-leonard?cid=3090", 
+        "http://npg.si.edu/exhibition/groove-jazz-portraits-herman-leonard?utm_source=washingtonorg&amp;utm_medium=referral&amp;utm_campaign=groove-jazz-portraits-herman-leonard"
+    ], 
+    "evtname" : "In the Groove: Jazz Portraits by Herman Leonard", 
+    "community" : [
+        "gwu", 
+        "american", 
+        "georgetown", 
+        "howard", 
+        "marymount", 
+        "trinitydc", 
+        "cua", 
+        "udc", 
+        "gmu", 
+        "agnes", 
+        "groupten"
+    ], 
+    "featured" : false, 
+    "url" : "https://washington.org/event/groove-jazz-portraits-herman-leonard?cid=3090", 
+    "keywords" : [
+
+    ], 
+    "attendees" : [
+
+    ], 
+    "attendcount" : NumberInt(0), 
+    "other" : {
+        "currentDistance" : "", 
+        "tags" : [
+
+        ]
+    }, 
+    "location" : "National Portrait Gallery, Penn Quarter/Chinatown", 
+    "status" : false, 
+    "evtsource" : "washington.org", 
+    "createdate" : ISODate("2016-08-05T00:00:00.000+0000"), 
+    "evtdesc" : "Herman Leonard is known as the preeminent jazz photographer, hanging out with some of the art form\u0092s greatest performers during the genre\u0092s heyday. While bouncing from club to club, Leonard used a Speed Graphic camera to capture the essence of playing jazz, photographing legendary figures such as Ella Fitzgerald, Dizzy Gillespie, Duke Ellington, Billy Holiday and Thelonious Monk along the way. Experience Leonard\u0092s stunning work at this new National Portrait Gallery exhibit.", 
+    "grps" : [
+
+    ], 
+    "endtime" : ISODate("2017-02-20T05:01:00.000+0000"), 
+    "evttype" : "public", 
+    "admin" : [
+
+    ], 
+    "just_crawled" : false, 
+    "picurl" : "https://s3.amazonaws.com/agneseventimage/compress/event_58kvUKz9.jpg", 
+    "starttime" : ISODate("2016-08-06T05:01:00.000+0000"), 
+    "isAvailable" : true, 
+    "maxdistance" : 0.03914181697168526, 
+    "attended" : [
+
+    ], 
+    "attendedCount" : NumberInt(0), 
+    "geo" : "38.8978692,-77.0230529", 
+    "thumbnail" : "https://s3.amazonaws.com/agneseventimage/thumbnail/event_58kvUKz9.jpg"
+}}
