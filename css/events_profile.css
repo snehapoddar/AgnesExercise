@@ -29,20 +29,19 @@
    padding: 10px; 
    width:30%;
    text-align: center;
-   
+   border-radius: 10px;
    margin:0px;
    margin-left: 35%;
 }
 
 .eventDescriptionText {
-	position: absolute; 
+   position: absolute; 
    top: 80%; 
    color: white; 
    width:100%;
    text-align: center;
    margin:0px;
    padding-right: 20px;
-
 }
 .backArrowIcon  {
    position: absolute; 
@@ -67,23 +66,25 @@
 .eventProfileContent {
 	padding-left: 5%;
 	padding-top:5%;
+	color:white;
+
 }
+
 .timeIconDiv {
  float:left;
  margin-bottom: 20px;
 }
-.eventProfileContent {
-	float: clear;
-}
-.eventProfileContent {
-	color:white;
-}
+
 .profileDesDiv {
 	margin-top: 5%;
 	text-align: left;
-	overflow: scroll;
+	overflow-y: scroll;
 	height: 400px;
 	padding-right: 10%;
+	overflow: -moz-scrollbars-vertical;
+     overflow: scroll;
+    -webkit-overflow-scrolling: touch;
+    width:95%;
 }
 
 .locationDiv {
@@ -109,9 +110,7 @@
 }
 .eventActionModalContent {
 	background-color: black;
-	
-}
-.eventActionModalContent.btn {
+	width: 90%;
 	
 }
 .cancelEventButton{
@@ -123,3 +122,14 @@
 .fontSizeResponsive {
 	font-size: 2em;
 }
+
+.profileDesDiv::-webkit-scrollbar {
+    -webkit-appearance: none;
+}
+
+.profileDesDiv::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, .5);
+    border-radius: 10px;
+    border: 2px solid #ffffff;
+}
+
