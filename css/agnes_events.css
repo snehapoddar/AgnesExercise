@@ -16,23 +16,29 @@
   color:black;
   border: 2px solid white;
 }
-.menuButton, .addButton {   
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: black;
+    border-color:black;
+    box-shadow: none;
+}
+.menuButton, .addButton{   
     position: relative;
-    float: right;
     padding: 20px 23px;
     margin-top: 2%;
     margin-right: 0px;
     margin-bottom: 1px;
     background-color: transparent;
     background-image: none;
+    border-color: black;
     border:0px;
     margin-left: 20px;
 }
-.menuButton {
+.menuButton, .menuButton.active, .menuButton:active, .menuButton:hover, .menuButton:focus {
     float:left;
     background:url('../icons/hamburger_icon.png')no-repeat;
 }
-.addButton {
+.addButton, .addButton.active, .addButton:active, .addButton:hover, .addButton:focus {
     float: right;
     background:url('../icons/plus_icon.png') no-repeat;
 }
