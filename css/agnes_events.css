@@ -1,13 +1,26 @@
 .appNav{
     background-color: black;
-    padding-left: 5px;
+    padding:10px;
 }
-.menuButton, .addButton {
-    
+.toggleButtonNav>label.btn {
+  font-size: 2em !important;
+  border-radius: 10px;
+  background-color: black;
+  color:white;
+  border: 2px solid white;
+  box-shadow: none;
+  
+}
+.toggleButtonNav>label.btn.active,.toggleButtonNav>label.btn.active:hover  {
+  background-color: white;
+  color:black;
+  border: 2px solid white;
+}
+.menuButton, .addButton {   
     position: relative;
     float: right;
     padding: 20px 23px;
-    margin-top: 5px;
+    margin-top: 2%;
     margin-right: 0px;
     margin-bottom: 1px;
     background-color: transparent;
@@ -30,25 +43,23 @@
     background-attachment: fixed;
     background-size: cover;
     text-align: center;
-    margin-top: 7%;
+    margin-top: 12%;
     color:white;
 }
-html, body {
-    background-color: black;
-}
-
 .toggleButtonNav {
     padding-top: 1%;
-    padding-left: 33%;
+    padding-left: 23%;
+    margin-bottom: 1%;
 }
 
 .eventsSection {
-    margin-top: 60%;
+    margin-top: 73%;
     background-color: black;
 }
 
 .eventsSection img{
     width: 100%; 
+    border-radius: 3%;
 }
 
 .imageDiv{
@@ -63,17 +74,54 @@ html, body {
    letter-spacing: -1px;  
    background: rgb(0, 0, 0); /* fallback color */
    background: rgba(0, 0, 0, 0.5);
-   padding: 10px; 
+   padding: 5%;
    width:95.5%; 
 }
 .dateText{
-    padding-right:10px;
+    padding-right:3%;
     border-right: 2px solid white;
 }
 .eventNameText {
-    padding-left: 10px;
+    padding-left: 3%;
 }
 
 .eachEventContainer {
-    margin-bottom: 1%;
+    margin-bottom: 5%;
 }
+
+.eachDayContainer {
+    color: blue;
+    text-align: center;
+    font-size: 3em;
+    position: fixed;
+    margin-top: 62%;
+    width: 100%;
+    position: fixed;
+    z-index: 3;
+    background-color: black;
+}
+.textBWLines {
+  position: relative;
+  text-align: center;
+}
+
+.textBWLines span {
+  background: black;
+  padding: 0 15px;
+  position: relative;
+  z-index: 1;
+}
+
+.textBWLines:before {
+  background: #ddd;
+  content: "";
+  display: block;
+  height: 1px;
+  position: absolute;
+  top: 50%;
+  width: 100%;
+}
+.textBWLines:before {
+  left: 0;
+}
+

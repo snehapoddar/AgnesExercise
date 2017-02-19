@@ -1,3 +1,7 @@
+.mainBody {
+	color:white;
+}
+
 .imageDiv {
 	position: relative; 
 	width: 100%;
@@ -34,10 +38,11 @@
 	position: absolute; 
    top: 80%; 
    color: white; 
-   padding: 10px; 
-   width:60%;
+   width:100%;
    text-align: center;
    margin:0px;
+   padding-right: 20px;
+
 }
 .backArrowIcon  {
    position: absolute; 
@@ -74,13 +79,18 @@
 	color:white;
 }
 .profileDesDiv {
-	margin-top: 10%;
+	margin-top: 5%;
 	text-align: left;
+	overflow: scroll;
+	height: 400px;
+	padding-right: 10%;
 }
 
 .locationDiv {
-	position: fixed;
-	margin-bottom: 20px;
+	margin-left: 25px;
+    position: fixed; 
+    bottom:4%;
+    width:100%; 
 }
 
 .eventDateTimeText, .locationText{
@@ -94,15 +104,22 @@
 
 .eventActionModal {
 	position: fixed; 
-	top:77%; 
+	top:70%; 
 	
 }
 .eventActionModalContent {
 	background-color: black;
+	
+}
+.eventActionModalContent.btn {
+	
 }
 .cancelEventButton{
 	background-color: black;
 	margin-top: 15px;
 	border-color: white;
 	color:white;
+}
+.fontSizeResponsive {
+	font-size: 2em;
 }

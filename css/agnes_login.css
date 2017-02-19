@@ -1,12 +1,16 @@
-body {
-	background-color: black;
-}
-.emailInput, .passwordInput {	
+
+.emailInput, .passwordInput, .passwordInput:focus,.passwordInput.focus, .emailInput.focus, .emailInput:focus {	
   	background-repeat:no-repeat;
-	background-position:6px;
+	  background-position:6px;
   	background-color: black;
   	color:white;
-  	padding-left: 8%;
+  	padding-left: 10%;
+    padding-bottom: 3%;
+    font-size: 2em;
+    border: 0;
+    border-bottom: 2px solid white;
+    box-shadow:none;
+    border-radius: 0px;
 }
 .emailInput {
 	background-image:url('../icons/email_icon.png');
@@ -18,13 +22,19 @@ body {
     overflow:hidden;    
 }
 
-.loginButton, .loginButton.focus, .loginButton:hover  {
-	border-color: white;
+.loginButton, .loginButton:focus, .loginButton:hover  {
+	  border: 2px solid white;
     background: black;
     color: white;
+    font-size: 2em;
+    margin-top: 30px;
 }
 
 .logoContainer {
 	padding-bottom: 20%;
-    padding-top: 20%;
+  padding-top: 20%;
+}
+.loginCredentialsDiv {
+  margin-right: 30px;
+  margin-left: 30px;
 }

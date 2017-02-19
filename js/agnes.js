@@ -11,19 +11,19 @@ $(window).on('load',function () {
     //alert(json);
  }); 
 
+$(document).ready(function() {
+    $('#login').submit(function() {
+        var email = $('.emailInput').val();
+		var pass = $('.passwordInput').val();
+		if((email === "kazem@groupten.com") && (pass ==="123456789"))
+    		location.href = 'events.html';
+        else 
+        	location.href = 'login.html';
+        return false;
+    });
+});
 
 
-function validate() {
-	var email = $('.emailInput').val();
-	var pass = $('.passwordInput').val();
-	//location.href = 'events.html';	
-	console.log(email);
-	console.log(pass);
-  	if((email === "kazem@groupten.com") && (pass ==="123456789"))
-    	location.href = 'events.html';		
-  	else
-    	return false;
-}
 // function loadJSON(callback) {   
 //     var xobj = new XMLHttpRequest();
 //     xobj.overrideMimeType("application/json");
