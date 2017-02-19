@@ -3,14 +3,13 @@
     padding: 0;
 }
 
-h1 {
-    font-family: 'Josefin Sans', sans-serif;
-}
+
 html,body {
     font-family: 'Playfair Display', serif;
     overflow-y: scroll;
     overflow-x: hidden;
     height:100%;
+    background-color: black
 }
 p {
     font-size: 14px;

@@ -18,7 +18,7 @@ body {
     overflow:hidden;    
 }
 
-.loginButton {
+.loginButton, .loginButton.focus, .loginButton:hover  {
 	border-color: white;
     background: black;
     color: white;
